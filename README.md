@@ -11,7 +11,7 @@
 
 [15 conceptos básicos de ciberseguridad que debes conocer](https://libertia.es/conceptos-basicos-ciberseguridad/)
 
-[Conceptos Basicos Ciberseguridad](https://es.malwarebytes.com/cybersecurity/)
+[Conceptos Basicos de la Seguridad Informatica](https://es.malwarebytes.com/cybersecurity/)
 
 ---
 
