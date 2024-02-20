@@ -1,6 +1,6 @@
 # Hola Cracks de la Ciberseguridad! 👋
 
-### Aca les dejo alguna documentacion y links en español e ingles que les ayudara a comprender un poco mas conceptos y terminologia respecto a ciberseguridad, la idea es estar alimentnado este repositorio con informacion reelevante para ustedes. 📝
+### Acá les dejo alguna documentación y links en español e inglés que les ayudara a comprender un poco más conceptos y terminología respecto a Ciberseguridad, la idea es estar alimentando este repositorio con información relevante para ustedes. 📝
 ---
 
 ## Links
